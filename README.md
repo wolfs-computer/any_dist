@@ -2,11 +2,16 @@
 Base disk
 =========
 
-public readonly folder URL
+Public readonly folder URL:
 <https://drive.google.com/drive/folders/1Qk7SVzPPKVEWVvOm3ftSzQgmmkgAtP0r?usp=drive_link>
 
-quick google login URL for Shifter
+Quick google login URL for Shifter:
 <https://www.google.com/account/about/?hl=en-US>
+Private folder for Shifter:
+<https://drive.google.com/drive/folders/1dK0aIs4ZgLHMDCQnmtJPu6l2VOhb-D_r?usp=drive_link>
+
+Private messages (by link):
+no ur not getting that
 
 
 
