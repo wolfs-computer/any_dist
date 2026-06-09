@@ -11,7 +11,7 @@ Private folder for Shifter:
 <https://drive.google.com/drive/folders/1dK0aIs4ZgLHMDCQnmtJPu6l2VOhb-D_r?usp=drive_link>
 
 Private messages (by link):
-no ur not getting that
+https://drive.google.com/drive/folders/1ZAPbdfbX-43kanD1s-tD6q6bMgpf2vaL
 
 
 
