@@ -31,6 +31,15 @@ https://raw.githubusercontent.com/wolfs-computer/any_dist/refs/heads/main/README
 
 
 
+Music
+======
+
+Convert to .mpv:
+```bash
+yt() { ffmpeg -i $1 -ac 1 -ar 22050 -r 25 -block_size 882 -s 320x240 $2; }
+```
+
+
 Other
 =========
 Books:
